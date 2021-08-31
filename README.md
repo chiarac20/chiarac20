@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Chiara Castelli 🏰. I’m looking for a new position as a React ⚛️ Developer. 
+
 <!--
 **chiarac20/chiarac20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
